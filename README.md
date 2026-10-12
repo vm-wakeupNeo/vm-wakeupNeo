@@ -35,7 +35,7 @@ I enjoy exploring different areas of cybersecurity and understanding how systems
 - **🔎 [Nmap Enumeration Labs](https://github.com/vm-wakeupNeo/nmap-enumeration-labs)**
 - **🛡️ [Linux Hardening Project](https://github.com/vm-wakeupNeo/linux-hardening-project)**
 - **🐍 [Python Log Analyzer](https://github.com/vm-wakeupNeo/python-log-analyzer)**
-- **[DoS Attack](https://github.com/vm-wakeupNeo/DoS-attack)**
+- **🚫 [DoS Attack](https://github.com/vm-wakeupNeo/DoS-attack)**
 
 ## 🎯 Career Goal
 
